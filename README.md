@@ -1,10 +1,10 @@
 <div align="center">
 
-# Olá, eu sou Samuel R. Caroba 👋
+# Olá, eu sou Samuel R. Caroba
 
-### Desenvolvedor Full Stack • Rust, TypeScript e JavaScript
+### Desenvolvedor de software | Rust, TypeScript e JavaScript
 
-Construo aplicações locais e web com foco em desempenho, clareza, automação e experiência do usuário.
+Desenvolvo aplicações locais e web com foco em desempenho, confiabilidade, automação e experiência do usuário.
 
 [Projetos](#-projetos-em-destaque) • [Tecnologias](#-tecnologias) • [Contato](#-contato)
 
@@ -20,7 +20,7 @@ Construo aplicações locais e web com foco em desempenho, clareza, automação 
 - Gosto de transformar problemas técnicos em ferramentas úteis, mensuráveis e fáceis de usar.
 - Valorizo código legível, documentação clara, testes e evolução incremental.
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### [BenchLab](https://github.com/SamuelzimMVP/BenchLab)
 
@@ -43,15 +43,11 @@ Projeto educacional para prática do ENEM com experiência interativa e gamifica
 
 **Tecnologias:** JavaScript, HTML, CSS, Node.js e banco de dados.
 
-### [Taskflow](https://github.com/SamuelzimMVP/taskflow)
-
-Aplicação em TypeScript voltada à organização de tarefas e fluxo de trabalho.
-
 ### [Caroba Contabilidade](https://github.com/SamuelzimMVP/Caroba_Contabilidade)
 
 Sistema web acadêmico de gestão contábil, desenvolvido com foco em automação e usabilidade.
 
-## 🧰 Tecnologias
+## Tecnologias
 
 | Área | Tecnologias |
 | --- | --- |
@@ -70,7 +66,7 @@ Sistema web acadêmico de gestão contábil, desenvolvido com foco em automaçã
 - Evito esconder limitações: resultados e decisões precisam de contexto.
 - Evoluo projetos em commits pequenos e revisáveis.
 
-## 📫 Contato
+## Contato
 
 - GitHub: [@SamuelzimMVP](https://github.com/SamuelzimMVP)
 - E-mail: [samuelcaroba08@gmail.com](mailto:samuelcaroba08@gmail.com)

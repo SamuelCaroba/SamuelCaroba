@@ -22,7 +22,7 @@ Desenvolvo aplicações locais e web com foco em desempenho, confiabilidade, aut
 
 ## Projetos em destaque
 
-### [BenchLab](https://github.com/SamuelzimMVP/BenchLab)
+### [CarobaLab](https://github.com/SamuelzimMVP/BenchLab)
 
 Suíte multiplataforma de benchmark e diagnóstico de hardware construída em Rust.
 
